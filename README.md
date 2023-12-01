@@ -1,14 +1,15 @@
 <h1 align="center">Hello 👋, I'm Mahesh </h1>
 
-<h3 align="center">Welcome To My Github Profile </h3>
+<h3 align="center"> Web Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maheshkn30&label=Profile%20views&color=0e75b6&style=flat" alt="maheshkn30" /> </p>
 
-<h1 align="left">💫 About Me:</h1>
+
+<h1 align="left"> About Me:</h1>
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **JavaScript,Html,Css**
+- 💬 Ask me about **JavaScript,Html,Css,MySql**
 
 - 📫 How to reach me **mahe3062001@gmail.com**
 
