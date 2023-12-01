@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mahesh K N</h1>
+<h1 align="center">Hello 👋, I'm Mahesh K N</h1>
 <h3 align="center">A Passionate Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshkn30&label=Profile%20views&color=0e75b6&style=flat" alt="maheshkn30" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshkn30" alt="maheshkn30" /></a> </p>
+- 🌱 I’m currently learning **MERN Stack**
+
+- 💬 Ask me about **JavaScript,Html,Css**
+
+- 📫 How to reach me **mahe3062001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
