@@ -7,9 +7,9 @@
 
 <h1 align="left"> About Me:</h1>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Node.js,Express.js,MongoDB**
 
-- 💬 Ask me about **JavaScript,Html,Css,MySql**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **mahe3062001@gmail.com**
 
