@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahesh K N</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend Developer specializing in building scalable, high-quality web interfaces with a strong focus on performance, accessibility, and user experience. Driven by clean code and continuous improvement.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshkn30&label=Profile%20views&color=0e75b6&style=flat" alt="maheshkn30" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maheshkn30&label=Profile%20views&color=0e75b6&style=flat" alt="maheshkn30" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshkn30" alt="maheshkn30" /></a> </p>
 
