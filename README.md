@@ -76,6 +76,9 @@ Frontend Developer focused on building scalable, high-quality web interfaces wit
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=maheshkn30&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=maheshkn30&theme=default_repocard&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkn30&theme=default_repocard&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=maheshkn30&theme=default_repocard&include_all_commits=true&cache_seconds=86400)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=maheshkn30&theme=default_repocard&cache_seconds=86400)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkn30&theme=default_repocard&layout=compact&cache_seconds=86400)
+
