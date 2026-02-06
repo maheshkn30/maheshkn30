@@ -21,41 +21,17 @@ I'm a Full Stack Engineer at **Eligarf Technologies**, where I work on **iMeUsWe
 - 💼 **Open to new opportunities** in product-based companies and innovative startups
 
 ---
-
 ### 🛠️ Tech Stack
 
-**Frontend**
-- React.js, React Native
-- JavaScript (ES6+), HTML5, CSS3, SASS
-- Redux for state management
-- Webpack, Babel
+**Frontend:** React, React Native, JavaScript, HTML5, CSS3, SASS, Redux
 
-**Backend**
-- Node.js, Express.js
-- RESTful API design and integration
+**Backend:** Node.js, Express.js, Mongoose
 
-**Database**
-- MongoDB, PostgreSQL, MySQL
-- Redis for caching
+**Database:** MongoDB, PostgreSQL, MySQL, Redis
 
-**Tools & DevOps**
-- Git & GitHub
-- AWS
-- Postman for API testing
-- Agile development workflows
+**Tools:** Git,GitHub, AWS, Postman, Webpack,Azure Devops
 
 ---
-
-### 📈 What I Bring
-
-- **Rapid Learning**: Progressed from App Development Intern (May 2024) to Full Stack Engineer in 6 months
-- **Cross-functional Skills**: Comfortable working across frontend, backend, and mobile development
-- **User-Centric Development**: Focus on building intuitive interfaces that users love
-- **Clean Code Advocate**: Write maintainable, well-documented code following best practices
-- **Team Collaboration**: Experience working in agile teams with version control workflows
-
----
-
 ### 🎯 Currently
 
 - Building personal projects to showcase frontend development skills
@@ -67,8 +43,8 @@ I'm a Full Stack Engineer at **Eligarf Technologies**, where I work on **iMeUsWe
 ### 📫 Let's Connect
 
 - **Email**: mahe3062001@gmail.com
-- **LinkedIn**: [Add your LinkedIn URL]
-- 💬 Open to discussing **frontend development, React, React Native, and full-stack opportunities**
+- **LinkedIn**: www.linkedin.com/in/mahesh-k-n-ab2353296
+- 💬 Open to discussing **Frontend Development, React, React Native, and Full-stack opportunities**
 
 ---
 
@@ -77,11 +53,13 @@ I'm a Full Stack Engineer at **Eligarf Technologies**, where I work on **iMeUsWe
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshkn30&theme=default" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkn30&layout=compact&theme=default" alt="Top Languages" />
 </p>
-```
 
----
 
 ## **Updated Bio (for GitHub profile settings)**
 ```
