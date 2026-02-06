@@ -39,10 +39,13 @@ I'm a Full Stack Engineer at **Eligarf Technologies**, where I work on **iMeUsWe
 - 💬 Open to discussing **Frontend Development, React, React Native, and Full-stack opportunities**
 
 ---
-![](https://github-readme-stats.vercel.app/api?username=maheshkn30&theme=default_repocard&include_all_commits=true&cache_seconds=86400)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshkn30&show_icons=true&include_all_commits=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=maheshkn30&theme=default_repocard&cache_seconds=86400)
+![GitHub streak](https://streak-stats.demolab.com?user=maheshkn30)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkn30&theme=default_repocard&layout=compact&cache_seconds=86400)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkn30&layout=compact)
+
+
+
 
 
