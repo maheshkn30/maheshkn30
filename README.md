@@ -45,13 +45,4 @@ I'm a Full Stack Engineer at **Eligarf Technologies**, where I work on **iMeUsWe
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkn30&theme=default_repocard&layout=compact&cache_seconds=86400)
 
-## **Updated Bio (for GitHub profile settings)**
-```
-Full Stack Engineer @ Eligarf Technologies | React & React Native Developer | Building scalable web & mobile apps | Open to new opportunities
-
-![](https://github-readme-stats.vercel.app/api?username=maheshkn30&theme=default_repocard&include_all_commits=true&cache_seconds=86400)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=maheshkn30&theme=default_repocard&cache_seconds=86400)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkn30&theme=default_repocard&layout=compact&cache_seconds=86400)
 
