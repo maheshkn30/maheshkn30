@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahesh K N</h1>
 <h3 align="center">
-Full Stack Engineer specializing in React & React Native development | Building scalable web and mobile applications with focus on exceptional user experiences
+Full Stack Engineer specializing in React & React Native development | Building scalable Web and Mobile Applications with focus on exceptional user experiences
 </h3>
 
 <p align="center">
@@ -32,14 +32,6 @@ I'm a Full Stack Engineer at **Eligarf Technologies**, where I work on **iMeUsWe
 **Tools:** Git,GitHub, AWS, Postman, Webpack,Azure Devops
 
 ---
-### 🎯 Currently
-
-- Building personal projects to showcase frontend development skills
-- Deepening expertise in React ecosystem and modern JavaScript
-- Exploring opportunities with forward-thinking engineering teams
-
----
-
 ### 📫 Let's Connect
 
 - **Email**: mahe3062001@gmail.com
@@ -47,19 +39,11 @@ I'm a Full Stack Engineer at **Eligarf Technologies**, where I work on **iMeUsWe
 - 💬 Open to discussing **Frontend Development, React, React Native, and Full-stack opportunities**
 
 ---
+![](https://github-readme-stats.vercel.app/api?username=maheshkn30&theme=default_repocard&include_all_commits=true&cache_seconds=86400)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshkn30&show_icons=true&theme=default&include_all_commits=true" alt="GitHub Stats" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=maheshkn30&theme=default_repocard&cache_seconds=86400)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshkn30&theme=default" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkn30&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkn30&theme=default_repocard&layout=compact&cache_seconds=86400)
 
 ## **Updated Bio (for GitHub profile settings)**
 ```
