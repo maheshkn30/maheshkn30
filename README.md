@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahesh K N</h1>
 <h3 align="center">
-Frontend Developer focused on building scalable, high-quality web interfaces with a strong emphasis on performance, accessibility, and exceptional user experience. Committed to clean code, best practices, and continuous learning.
+Full Stack Engineer specializing in React & React Native development | Building scalable web and mobile applications with focus on exceptional user experiences
 </h3>
 
 <p align="center">
@@ -9,72 +9,83 @@ Frontend Developer focused on building scalable, high-quality web interfaces wit
 
 ---
 
-- 🔭 Currently working on **Imeuswe**
-- 💬 Open to discussions on **Frontend and Backend Development**
-- 📫 Reach me at **mahe3062001@gmail.com**
+### 👨‍💻 About Me
+
+I'm a Full Stack Engineer at **Eligarf Technologies**, where I work on **iMeUsWe** - a family genealogy platform helping users build their Indian family trees and discover their ancestry.
+
+- 🚀 Developed and shipped features for both **web (React)** and **mobile (React Native)** applications serving thousands of users
+- 💡 Frontend-focused full-stack developer with strong expertise in creating responsive, performant user interfaces
+- 🔧 Experienced with the complete development lifecycle from design to deployment
+- 📱 Built cross-platform mobile experiences ensuring consistency across iOS and Android
+- 🌱 Currently building personal projects to expand my portfolio and exploring modern frontend architectures
+- 💼 **Open to new opportunities** in product-based companies and innovative startups
 
 ---
 
-<h3 align="left">Languages and Tools</h3>
+### 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-  </a>
+**Frontend**
+- React.js, React Native
+- JavaScript (ES6+), HTML5, CSS3, SASS
+- Redux for state management
+- Webpack, Babel
+
+**Backend**
+- Node.js, Express.js
+- RESTful API design and integration
+
+**Database**
+- MongoDB, PostgreSQL, MySQL
+- Redis for caching
+
+**Tools & DevOps**
+- Git & GitHub
+- AWS
+- Postman for API testing
+- Agile development workflows
+
+---
+
+### 📈 What I Bring
+
+- **Rapid Learning**: Progressed from App Development Intern (May 2024) to Full Stack Engineer in 6 months
+- **Cross-functional Skills**: Comfortable working across frontend, backend, and mobile development
+- **User-Centric Development**: Focus on building intuitive interfaces that users love
+- **Clean Code Advocate**: Write maintainable, well-documented code following best practices
+- **Team Collaboration**: Experience working in agile teams with version control workflows
+
+---
+
+### 🎯 Currently
+
+- Building personal projects to showcase frontend development skills
+- Deepening expertise in React ecosystem and modern JavaScript
+- Exploring opportunities with forward-thinking engineering teams
+
+---
+
+### 📫 Let's Connect
+
+- **Email**: mahe3062001@gmail.com
+- **LinkedIn**: [Add your LinkedIn URL]
+- 💬 Open to discussing **frontend development, React, React Native, and full-stack opportunities**
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maheshkn30&show_icons=true&theme=default&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkn30&layout=compact&theme=default" alt="Top Languages" />
+</p>
+```
+
 ---
+
+## **Updated Bio (for GitHub profile settings)**
+```
+Full Stack Engineer @ Eligarf Technologies | React & React Native Developer | Building scalable web & mobile apps | Open to new opportunities
 
 ![](https://github-readme-stats.vercel.app/api?username=maheshkn30&theme=default_repocard&include_all_commits=true&cache_seconds=86400)
 
