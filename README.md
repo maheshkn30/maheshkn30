@@ -18,18 +18,18 @@ I'm a Full Stack Engineer at **Eligarf Technologies**, where I work on **iMeUsWe
 - 🔧 Experienced with the complete development lifecycle from design to deployment
 - 📱 Built cross-platform mobile experiences ensuring consistency across iOS and Android
 - 🌱 Currently building personal projects to expand my portfolio and exploring modern frontend architectures
-- 💼 **Open to new opportunities** in product-based companies and innovative startups
+- 💼 **Open to new opportunities**
 
 ---
 ### 🛠️ Tech Stack
 
-**Frontend:** React, React Native, JavaScript, HTML5, CSS3, SASS, Redux
+**Frontend:** HTML5, CSS3, SASS, JavaScript, React, React Native, Redux, Next.js
 
 **Backend:** Node.js, Express.js, Mongoose
 
 **Database:** MongoDB, PostgreSQL, MySQL, Redis
 
-**Tools:** Git,GitHub, AWS, Postman, Webpack,Azure Devops
+**Tools:** Git, GitHub, AWS, Postman, Webpack, Azure Devops, RESTful Api
 
 ---
 ### 📫 Let's Connect
